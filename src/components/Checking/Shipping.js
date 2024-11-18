@@ -10,17 +10,12 @@ export default function Shipping({ email, number }) {
 
   const handleContinueToPayment = () => {
     if (shippingMethod === "cashOnDelivery") {
-      // User selected Cash on Delivery
-      // Perform any specific action or validation
+
       console.log("Cash on Delivery selected");
       orderPlaced();
     } else {
-      // User selected another shipping method
-      // Perform any specific action or validation
-      console.log("Another shipping method selected");
 
-      // Continue to payment page
-      // Add your navigation logic here
+      console.log("Another shipping method selected");
     }
   };
 

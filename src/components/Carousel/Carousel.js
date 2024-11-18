@@ -1,10 +1,10 @@
 import React from "react";
 import './Carousel.css';
-import img1 from './img1.png';
-import img2 from './img2.png';
-import img3 from './img3.png';
-import img4 from './img4.png';
-import img5 from './img5.png';
+import img1 from './8236601.jpg';
+import img2 from './8226436.jpg';
+import img3 from './789456.jpg';
+import img4 from './10242499.jpg';
+import img5 from './slider1.jpg';
 import Allproducts from "../Products/Allproducts";
 import Productdata from '../Products/productdata.json';
 
@@ -19,7 +19,7 @@ export default function Carousel() {
       >
         <div className="carousel-inner">
           <div className="carousel-item active">
-            <img src={img1} className="d-block w-100 carousel-img" alt="can't load" />
+            <img src={img1} className="d-block w-100 carousel-img"  alt="can't load" />
           </div>
           <div className="carousel-item">
             <img src={img2} className="d-block w-100 carousel-img" alt="can't load" />

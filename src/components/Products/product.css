@@ -11,7 +11,7 @@
 }
 
 .image{
-    width:100%;
+    width:200%;
     height: 200px;
     margin-bottom: 20px;
     object-fit: contain;
@@ -21,7 +21,7 @@
     max-width: 190px;
 }
 .thisimage:hover{
-    animation: pulse 0.5s; /* Adjust animation name and duration as needed */
+    animation: pulse 0.5s; 
 }
 
 @keyframes pulse {
@@ -46,13 +46,10 @@ p{
     transition: opacity 0.5s, transform 0.5s;
   }
   
-  /* Apply the animation when the elements are in view */
   .product.active {
     animation: moveIn 0.5s forwards;
   }
-  
-  /* Define the animation when the elements are scrolled into view */
-  @keyframes moveIn {
+    @keyframes moveIn {
     0% {
       opacity: 0;
       transform: translateY(100%);
@@ -73,13 +70,11 @@ p{
     transition: opacity 2s, transform 0.5s;
   }
   
-  /* Apply the animation when the elements are in view */
   .box.active {
     opacity: 1;
     transform: translateY(0);
   }
 
-  /* Decrease and Increase Buttons */
   
   .checkout-section .btn-container {
     display: flex;
@@ -95,17 +90,17 @@ p{
     height: 30px;
     border: 1px solid #e0e0e0;
     background-color: #ffffff;
-    color: black;
+    color: rgb(24, 23, 23);
     font-size: 18px;
     cursor: pointer;
     border-radius: 50%;
-    margin: 0 3px; /* Added margin for spacing */
+    margin: 0 3px; 
   }
   
   .checkout-section .input-container {
     display: flex;
     align-items: center;
-    margin: 0 3px; /* Added margin for spacing */
+    margin: 0 3px; 
   }
   
   .checkout-section .quantity-input {

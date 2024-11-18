@@ -11,7 +11,6 @@ export default function Product(props) {
     navigate("/productlarge", { state: { ...props } });
   }
 
-  /* ANimation  */
   const [isVisible, setIsVisible] = useState(false);
   const elementRef = useRef(null);
 
@@ -41,7 +40,7 @@ export default function Product(props) {
         isVisible ? "active" : ""
       } `}
       ref={elementRef}
-      style={{ width: "180px", overflow: "hidden" }}
+      style={{ width: "200px", overflow: "hidden" }}
       onClick={handleclick}
     >
       <div
@@ -51,7 +50,7 @@ export default function Product(props) {
         <img
           className="thisimage d-block m-3 object-fit-contain"
           src={propsvar.image}
-          alt="not loading" /* style={{ maxHeight: "200px", maxWidth: "190px" }} */
+          alt="not loading"
         />
       </div>
       <h4 className="m-2 mb-3">{propsvar.title}</h4>

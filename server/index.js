@@ -12,9 +12,7 @@ app.use(cors());
 app.use(express.json());
 app.use(express.urlencoded({extended:false}));
 
-// app.use("/home", (req, res)=>{
-//     res.status(200).send("this is home page")
-// })
+
 
 
 app.use("/api", ProductRoutes);
@@ -22,7 +20,6 @@ app.use("/api", ProductRoutes);
 dotenv.config();
 
 
-// connecting mongoose
 mongoose.connect(process.env.MONGO_URI, {
     useUnifiedTopology: true,
 })

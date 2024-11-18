@@ -2,9 +2,7 @@ import React, { useState } from 'react';
 import Product from './Product';
 
 export default function Allproducts({ data }) {
-  const [sortingOption, setSortingOption] = useState(''); // State variable for sorting option
-
-  // Sort function based on the selected option
+  const [sortingOption, setSortingOption] = useState(''); 
   function sortProducts(a, b) {
     if (sortingOption === 'price-ascending') {
       return a.price - b.price;
@@ -28,7 +26,7 @@ export default function Allproducts({ data }) {
 
   return (
     <>
-      <div className="container-fluid mt-4 m-auto">
+      <div className="container-fluid mt-5 m-auto">
         <div style={{ textAlign: 'center' }}>
           {/* Sorting dropdown */}
           <select value={sortingOption} onChange={handleSortOptionChange}>
