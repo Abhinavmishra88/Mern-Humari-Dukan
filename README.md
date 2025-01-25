@@ -76,49 +76,7 @@ The Humari Dukaan project utilizes the following technologies and libraries:
 - Bootstrap: A popular CSS framework for building responsive and mobile-first websites.
 - Bootstrap Icons: A library of free, open-source icons for Bootstrap.
 
-## Contributors
 
-<a href="https://github.com/arpittyagi102">
-  <img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/94587985?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="120px"/>
-</a>
-<a href="https://github.com/Pulkitxm">
-  <img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/65671483?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="120px"/>
-</a>
-<a href="https://github.com/Akash1965">
-  <img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/115504480?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="120px"/>
-</a>
-<a href="https://github.com/avinashji1302">
-  <img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/91355822?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="120px"/>
-</a>
-<a href="https://github.com/roc102">
-  <img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/100594349?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="120px"/>
-</a>
-<a href="https://github.com/aasimtaif">
-  <img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/83891519?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="120px"/>
-</a>
-<a href="https://github.com/MRodriguez-M">
-  <img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/41445895?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="120px"/>
-</a>
-<a href="https://github.com/shm-dsgn">
-  <img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/77527904?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="120px"/>
-</a>
-<a href="https://github.com/Silent-Watcher">
-  <img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/91375198?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="120px"/>
-</a>
-<a href="https://github.com/sid12701">
-  <img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/78287897?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="120px"/>
-</a>
-<a href="https://github.com/sohaibaumer">
-  <img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/120295412?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="120px"/>
-</a>
-<a href="https://github.com/VIVEKIITdelhi">
-  <img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/114601400?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="120px"/>
-</a>
-<a href="https://github.com/aharonYK">
-  <img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/87654852?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d" width="120px"/>
-</a>
-
-<br class="br"/>
 
 ## Contributing
 
